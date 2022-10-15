@@ -1,6 +1,6 @@
 //Enes Kalinsazlioglu
 import java.util.*;
-public class cmsc401{
+public class median{
 	
 	public static int[] getArr() 
     {
